@@ -1,7 +1,3 @@
-# live_option_strategy_payoff_diagram
-
-https://live-option-strategy-payoff-diagram.streamlit.app/
-
 # 📈 Live Option Strategy Payoff Diagram
 
 This repository contains the code of a **Streamlit** web application that allows users to explore various **option trading strategies** and visualize their **payoff diagrams** at expiration.
